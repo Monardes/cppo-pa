@@ -2,6 +2,8 @@
 
 **Constrained Proximal Policy Optimisation with Physiological Attention** — Safe reinforcement learning for closed-loop anaesthesia control.
 
+https://github.com/Monardes/cppo-pa
+
 ## Files
 
 | File | Description |
